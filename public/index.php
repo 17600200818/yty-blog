@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
@@ -18,7 +17,7 @@
 | loading any of our classes later on. It feels nice to relax.
 |
 */
-
+//phpinfo();exit;
 require __DIR__.'/../bootstrap/autoload.php';
 
 /*
